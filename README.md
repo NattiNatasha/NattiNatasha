@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Привет, меня зовут Наталья! 👨‍💻 Я React Developer  🚀</div>  
+  ### <div align="center">Привет, меня зовут Наталья! 👨‍💻 Я React Developer  🚀</div>  
   
 
 - 🔭 Работаю в компании АСТОН  
